@@ -12,3 +12,5 @@ In a new gitbash : run       "C:\Program Files\MongoDB\Server\5.0\bin\mongo.exe"
 ```mongo
 show dbs
 ```
+| Name | Age|
+| Vignesh | 31
